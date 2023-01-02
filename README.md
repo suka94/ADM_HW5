@@ -10,4 +10,4 @@ The repository consists of the following files:
 - Frontend Implementation
 - Bonus - PageRank on MapReduce
 - Algorithmic Question
-2. `CommandLine._final.sh`: The code used to provide the answers to the Commmand Line questions.
+2. `CommandLine.sh`: The code used to provide the answers to the Commmand Line questions.
