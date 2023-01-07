@@ -1,10 +1,10 @@
 # Homework 5 - The Marvel Universe!
 
 Group composition:
-Soukaina Alaoui 1724332
-Ilaria Petrucci 1732987
-Antonio Ratti 1700089
-Antonio Rocca 1813055
+\Soukaina Alaoui 1724332
+\Ilaria Petrucci 1732987
+\Antonio Ratti 1700089
+\Antonio Rocca 1813055
 
 The purpose of this repository is to answer the assigned questions in the [Homework 5](https://github.com/lucamaiano/ADM/tree/master/2022/Homework_5) of the Algorithmic Methods of Data Mining and laboratory course of 2022.
 
