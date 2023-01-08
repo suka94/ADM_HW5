@@ -1,6 +1,6 @@
 # Homework 5 - The Marvel Universe!
 
-Group composition:\
+-Group members:\
 Soukaina Alaoui 1724332\
 Ilaria Petrucci 1732987\
 Antonio Ratti 1700089\
